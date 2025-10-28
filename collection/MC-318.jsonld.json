@@ -1,0 +1,59 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:name": "California Here We Come Travelogue",
+  "schema:description": "Typescript manuscript, photo album, and scrapbook chronicling the automobile trip of Lillian E. Wickline Dalziel, Frances Elizabeth Richmond Hurlbut Ostrom, and two other women in Frances's 1937 Plymouth Special \"to attend the Supreme Council, Order of Amaranth, at Los Angeles, California.\"\n\nThis detailed manuscript recounts the automobile adventures of four Oregon women in the summer of 1938 as they trekked to the Order of Amaranth Convention in Los Angeles, California. The four women, with Frances Hurlburt (1886-1963) as driver along with Maude, Anny serving as treasurer, and Lillian as the trip's documenter, set out from Peacock Lane in Portland, and began with a trip past Mount Hood. They picnic in a Bend at the Deschutes River Park, pass through the Klamath Indian Reservation, Crater Lake Junction and visit Crater Lake National Park, and spent the night at the Link River Auto Camp in Klamath Falls, OR. The four had to stop in Alturas \"at the Department of Motor Cars for our permit to drive in California.\" On their way to stay at Pomin's Tahoe Park Cabins at Lake Tahoe, they stopped \"to sort of scare our husbands, we mailed them cards which would bear the Reno post-mark.\"\n\nAfter stops to visit relatives in Sacramento, driving through miles of vineyards and wineries on the way through Stockton, Manteca, and Modesto, they headed to Yosemite. They enjoyed their visit to the Winona Indian Village, Bridal Veil Falls, El Capitan, drove past the Mariposa Grove Museum, and finally onto Fresno and Bakersfield. Lillian writes about the lemon and walnut groves along Sepulveda Blvd. in Los Angeles, the Pepper Trees near the National Soldier's Home on Wilshire, and enjoyed their dinner at the Marcie Bernardino's Cafe with a ship's interior for decor.\n\nThe group continued on South to San Diego, and Tijuana, Mexico, with stops at the Madam Schumann-Heink's Townhouse restaurant, and remarks that \"Reno has nothing on Mexico for divorces. One can obtain his freedom here for $ 1.00, and the divorce is granted while one waits.\" After staying at the Five Points Auto Court, they return onto Los Angeles. Their stay in Los Angeles includes sleeping at the Biltmore, attending \"services at the Angelus Temple, conducted by Aimee Semple McPherson.\" She also writes about dining at the El Encanto, Catalina restaurant, tours of Hollywood & Beverly Hills, and included her ribbon as delegate to the 41st Annual Assembly. She also recounts eating at La Golondrina Casa on Olvera St. in Los Angeles, and an account of visiting the Amaranth Home for Girls in Los Angeles, founded and operated by Lady Della Weibers, providing vocational training. The foursome return home via a long drive along the Pacific Coast route, where they spend three nights in San Francisco, visited Golden Gate Park, the Zoo, and again set out with stops in Crescent City, drove the Redwood Highway, and eventually to Portland again.\n\nDalziel (1870-1957) was a longtime Portland area dressmaker and seamstress, whose husband William Dalziel (1871-1956) was a machinist, Union rep, and later local Portland politician. The manuscript concludes with an expense account of the trip, beginning with $ 100.00 detailing gas, lodging, Yosemite Park entrance fee, and finally finishing with a balance of .22¢ left over after 3166 miles.\n\n[Description provided by Zephyr Books]\n\nThe collection's finding aid is available at the Online Archive of California.  https://oac.cdlib.org/findaid/ark:/13030/c8h70p2r",
+  "schema:creator": " Dalziel, Lillian E. Wickline",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2025"
+  },
+  "schema:identifier": [
+    "California Here We Come Travelogue",
+    "ark:/87293/d3n58cv0v"
+  ],
+  "schema:image": {
+    "@id": "info:fedora/item/ark:/87293/d3hd7p170/media/images/MC-318_0001.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2025"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ],
+  "schema:about": [
+    {"@id": "http://id.worldcat.org/fast/1204928"},
+    {"@id": "http://id.worldcat.org/fast/1308988"}
+  ]
+}
